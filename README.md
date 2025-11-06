@@ -39,11 +39,15 @@ It enables quick analysis of key business metrics and helps identify sales trend
 ---
 
 ## 🗂️ Repository Structure
-📁 Sales-Performance-Dashboard
+
+Sales-Performance-Dashboard/
 │
-├── Sales_Performance_Report.pbix # Power BI project file
-├── dashboard_preview.png # Dashboard screenshot
-└── README.md # Project documentation
+├── 📊 Sales_Performance_Report.pbix
+ — Power BI project file
+├── 🖼️ dashboard_preview.png
+ — Dashboard preview image
+└── 📘 README.md
+ — Project documentation
 
 ---
 
